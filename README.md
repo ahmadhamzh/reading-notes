@@ -1,5 +1,5 @@
 # **reading-notes**
-   ### *GROWTH MINDEST :*
+   ### GROWTH MINDEST :
      THE GROWTH MINDIS SEE THAT THE ABILITIES AND SKILS CAN BE  DEVELOPED BY TRAING MORE AND GIVE EFFORT,
       AND THE TALENT JUST CAN GIVE A BETTER START
       
@@ -19,6 +19,6 @@
       the tow question help me to see what the thing that im good at
       and what the thing i should put more effort on .
       
-  ** you can read more about growth mindest in [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+  **you can read more about growth mindest in [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)**
       
       
