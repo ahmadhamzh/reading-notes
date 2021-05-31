@@ -32,5 +32,11 @@
   
      You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link.
      
+         YOU CAN LEARN MORE ABOUT MARKDOWN FROM [HERE](uhttps://guides.github.com/features/mastering-markdown/rl)
+         
+        YOU CAN LEARN MORE ABOUT MARKDOWN FROM [HERE](https://guides.github.com/features/mastering-markdown/url)
+        
+        ![MARKDOWN MARK](https://cargo.dustincurtis.com/projects/markdown/markdown-mark-header-updated-2021.png?6)
+     
        
         
