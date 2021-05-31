@@ -6,7 +6,7 @@
  
  * ### GIT can be installed as part of GITHUB
 
- * ### you candownload git aas partof githp
+ * ### you can download git as a part of githp
  * 
  * ### After making sure Git has been installed, you should perform some customization steps, which should only need to be completed once on any machine.
 
