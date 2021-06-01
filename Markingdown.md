@@ -1,14 +1,16 @@
 # Githup Pages
   
-  #### the GitHub pages is the way for the programmers and the companes to share their work that they done with other people by tuning it to webages.
+  ### *the GitHub pages is the way for the programmers and the companes to share their work that they done with other people by tuning it to webages*.
   * you can know more about that from this [video](https://www.youtube.com/watch?v=2MsN8gpT6jY).
     
 # Markdown 
 
-  ### is a way to style text on the web , where you can make the words bold or italic,
-  ### and you can add images or creating lists and a lots of  other thing in an easy way. 
+  ### *is a way to style text on the web , where you can make the words bold or italic,*
+  ### *and you can add images or creating lists and a lots of  other thing in an easy way.*
   
   > Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+
+
 
   ### some codes examples :
    - **HEADINGS:**
@@ -36,7 +38,7 @@
          
         YOU CAN LEARN MORE ABOUT MARKDOWN FROM [HERE](https://guides.github.com/features/mastering-markdown/url)
         
-        ![MARKDOWN MARK](https://cargo.dustincurtis.com/projects/markdown/markdown-mark-header-updated-2021.png?6)
+        
      
        
         

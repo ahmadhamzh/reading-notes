@@ -14,7 +14,7 @@
 
  * ### with merging you can merge changes from one branch into your current one
  
- * ### Rebassing is a popular alternative to merging, Rebasing starts with the common ancestor of two branches: the one you’re on and the one you’re rebasing onto. Then, the diffs resulting from each commit of your current branch are saved to temporary files, and the current branch gets reset to the same commit as that of the branch you are rebasing onto. Last but not least, all changes get applied to the branch you are rebasing onto.
+ * ### Rebasing is a popular alternative to merging, Rebasing starts with the common ancestor of two branches: the one you’re on and the one you’re rebasing onto. Then, the diffs resulting from each commit of your current branch are saved to temporary files, and the current branch gets reset to the same commit as that of the branch you are rebasing onto. Last but not least, all changes get applied to the branch you are rebasing onto.
 
  * ### When the two files being merged both have changes in identical sections of a file, Git will not be able to complete the merge cleanly. These conflicts must be dealt with manually.
 
@@ -32,3 +32,4 @@
  
  * ### distributed workflows allow developers collaborating on projects much more flexibility. Every developer using Git can be both a node and a hub; this means he/she can own a main repository which collaborators contribute to and base their work off of while also contributing code to other repositories. This opens up the possibilities for workflows immensely.
  
+ ### **you can find more about git from** [Here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
