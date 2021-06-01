@@ -19,3 +19,6 @@
       and what the thing i should put more effort on .
       
   **you can read more about growth mindest in [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)**
+
+  ## [reading-notes](https://ahmadhamzh.github.io/reading-notes/)
+  
