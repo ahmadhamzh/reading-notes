@@ -38,6 +38,9 @@
          YOU CAN LEARN MORE ABOUT MARKDOWN FROM [HERE](uhttps://guides.github.com/features/mastering-markdown/rl)
          
         YOU CAN LEARN MORE ABOUT MARKDOWN FROM [HERE](https://guides.github.com/features/mastering-markdown/url)
+
+
+  ## [reading-notes](https://ahmadhamzh.github.io/reading-notes/)
         
         
      
