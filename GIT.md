@@ -34,3 +34,5 @@
  
  
  ### **you can find more about git from** [Here](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+ ## [reading-notes](https://ahmadhamzh.github.io/reading-notes/)
