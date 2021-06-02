@@ -79,6 +79,10 @@
 
 ** for more info about Semantics go [HERE](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)**
 
+
+
+## [reading-notes](https://ahmadhamzh.github.io/reading-notes/)
+
  
 
 
