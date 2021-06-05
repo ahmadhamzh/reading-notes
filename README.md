@@ -13,6 +13,8 @@
   Markingdown | [Markingdown link](https://ahmadhamzh.github.io/reading-notes/Markingdown)
  GIT | [GIT link](https://ahmadhamzh.github.io/reading-notes/GIT)
 Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/reading-notes/StructurWebPages)
+ JAVA SCRIPT | [JAVA SCRIPT LINK](https://ahmadhamzh.github.io/reading-notes/javascript)
+ 
 
  
 
