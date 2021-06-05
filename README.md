@@ -14,7 +14,7 @@
  GIT | [GIT link](https://ahmadhamzh.github.io/reading-notes/GIT)
 Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/reading-notes/StructurWebPages)
  JAVA SCRIPT | [JAVA SCRIPT LINK](https://ahmadhamzh.github.io/reading-notes/javascript)
- Operators & Loops | [Operators & Loops Link]()
+ Operators & Loops | [Operators & Loops Link](https://ahmadhamzh.github.io/reading-notes/Operators-Loops)
  
 
  
