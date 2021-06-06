@@ -16,7 +16,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
  JAVA SCRIPT | [JAVA SCRIPT LINK](https://ahmadhamzh.github.io/reading-notes/javascript)
  Operators & Loops | [Operators & Loops Link](https://ahmadhamzh.github.io/reading-notes/Operators-Loops)
  Design web pages with CSS | [Design web pages with CSS](https://ahmadhamzh.github.io/reading-notes/DesignWithCss)
- Programing with javascript | [Programing with javascript](https://ahmadhamzh.github.io/reading-notes/Programming-%20with%20-JavaScrip)
+ Programing with javascript | [Programing with javascript](https://ahmadhamzh.github.io/reading-notes/Programming-%20with%20-JavaScript)
 
  
 
