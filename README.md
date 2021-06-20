@@ -1,11 +1,13 @@
 # [**reading-notes**](https://ahmadhamzh.github.io/reading-notes/) 
 
+# **CODE 102 READING NOTES**
+
+## This Site been created so i can put all the important notes that will help me to reminde my topcs 
+----
 
 ## About Me :
-
 ### *My Name :  Ahmad Hamzh*
 ### *I'm an Arcitect I Graduate from AL-ALbyet Uiversity*
-
 
    **Subject** |  **Link**
   -|-
@@ -17,6 +19,30 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
  Operators & Loops | [Operators & Loops Link](https://ahmadhamzh.github.io/reading-notes/Operators-Loops)
  Design web pages with CSS | [Design web pages with CSS](https://ahmadhamzh.github.io/reading-notes/DesignWithCss)
  Programing with javascript | [Programing with javascript](https://ahmadhamzh.github.io/reading-notes/Programming-%20with%20-JavaScript)
+
+
+ # **CODE 201 READING NOTES**
+
+  **Subject** |  **Link**
+  -|-
+  class 01| [class 01 link](https://ahmadhamzh.github.io/reading-notes/class01)
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  
+
+
 
  
 
