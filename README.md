@@ -26,7 +26,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   **Subject** |  **Link**
   -|-
   class 01| [class 01 link](https://ahmadhamzh.github.io/reading-notes/class01)
-  -|-
+  class 02| [class 02 link](https://ahmadhamzh.github.io/reading-notes/class02)
   -|-
   -|-
   -|-
