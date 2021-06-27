@@ -25,12 +25,12 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
 
   **Subject** |  **Link**
   -|-
-  class 01| [class 01 link](https://ahmadhamzh.github.io/reading-notes/class01)
-  class 02| [class 02 link](https://ahmadhamzh.github.io/reading-notes/class02)
-  class 03|[class 03 link](https://ahmadhamzh.github.io/reading-notes/class03)
-  class 04|[class 03 link](https://ahmadhamzh.github.io/reading-notes/class04)
+  Introductory HTML and JavaScript| [class 01 link](https://ahmadhamzh.github.io/reading-notes/class01)
+  HTML Text, CSS Introduction, and Basic JavaScript Instructions| [class 02 link](https://ahmadhamzh.github.io/reading-notes/class02)
+  HTML Lists, CSS Boxes, JS Control Flow|[class 03 link](https://ahmadhamzh.github.io/reading-notes/class03)
+  HTML Links, CSS Layout, JS Functions|[class 04 link](https://ahmadhamzh.github.io/reading-notes/class04)
   -|-
-  -|-
+   JS Object Literals; The DOM|[class 06 link](https://ahmadhamzh.github.io/reading-notes/class06)
   -|-
   -|-
   -|-
