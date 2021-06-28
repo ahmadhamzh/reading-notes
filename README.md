@@ -31,7 +31,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   HTML Links, CSS Layout, JS Functions|[class 04 link](https://ahmadhamzh.github.io/reading-notes/class04)
   -|-
    JS Object Literals; The DOM|[class 06 link](https://ahmadhamzh.github.io/reading-notes/class06)
-  -|-
+  HTML Tables; JS Constructor Functions|[class 07 link](https://ahmadhamzh.github.io/reading-notes/class07)
   -|-
   -|-
   -|-
