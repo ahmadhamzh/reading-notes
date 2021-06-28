@@ -32,7 +32,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   -|-
    JS Object Literals; The DOM|[class 06 link](https://ahmadhamzh.github.io/reading-notes/class06)
   HTML Tables; JS Constructor Functions|[class 07 link](https://ahmadhamzh.github.io/reading-notes/class07)
-  -|-
+  More CSS Layout|[class 08 link](https://ahmadhamzh.github.io/reading-notes/class08)
   -|-
   -|-
   -|-
