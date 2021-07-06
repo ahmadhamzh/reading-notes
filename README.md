@@ -37,7 +37,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   -|-
   -|-
   -|-
-  -|-
+  Local Storage|[class 12 link](https://ahmadhamzh.github.io/reading-notes/class12)
   -|-
   -|-
   
