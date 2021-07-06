@@ -18,5 +18,8 @@
 
 - “5 megabytes” is how much storage space each origin gets by default. This is surprisingly consistent across browsers, although it is phrased as no more than a suggestion in the HTML5 Storage specification.
 
--
+
+ ### refrences :
+
+   http://diveinto.html5doctor.com/storage.html
    
