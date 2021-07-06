@@ -38,7 +38,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   -|-
   -|-
   Local Storage|[class 12 link](https://ahmadhamzh.github.io/reading-notes/class12)
-  -|-
+  CSS Transforms, Transitions, and Animations|[class 13 link](https://ahmadhamzh.github.io/reading-notes/class13)
   -|-
   
 
