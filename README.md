@@ -1,6 +1,5 @@
 # [**reading-notes**](https://ahmadhamzh.github.io/reading-notes/) 
 
-# **CODE 102 READING NOTES**
 
 ## This Site been created so i can put all the important notes that will help me to reminde my topcs 
 ----
@@ -8,6 +7,9 @@
 ## About Me :
 ### *My Name :  Ahmad Hamzh*
 ### *I'm an Arcitect I Graduate from AL-ALbyet Uiversity*
+---
+
+## **Code 102 - Intro to Software Development - READING NOTES**
 
    **Subject** |  **Link**
   -|-
@@ -21,7 +23,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
  Programing with javascript | [Programing with javascript](https://ahmadhamzh.github.io/reading-notes/Programming-%20with%20-JavaScript)
 
 
- # **CODE 201 READING NOTES**
+ ## **Code 201 - Foundations of Software Development - READING NOTES**
 
   **Subject** |  **Link**
   -|-
@@ -42,6 +44,13 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   -|-
   
 
+ ## **Code 301 - Intermediate Software Development - READING NOTES**
+
+  **Subject** |  **Link**
+  -|-
+  -|-
+  -|-
+  -|-
 
 
  
