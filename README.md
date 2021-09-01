@@ -47,10 +47,15 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
  ## **Code 301 - Intermediate Software Development - READING NOTES**
 
   **Subject** |  **Link**
+  -|-
   Introduction to React and Components|[class 01 Link](301-reading-notes/class01.md)
   -|-
   Passing Functions as Props|[class 03 Link](301-reading-notes/class03.md)
+  React and Forms|[class 04 Link](301-reading-notes/class04.md)
   -|-
+  -|-
+  -|-
+  
 
 
  
