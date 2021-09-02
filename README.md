@@ -52,9 +52,8 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   -|-
   Passing Functions as Props|[class 03 Link](301-reading-notes/class03.md)
   React and Forms|[class 04 Link](301-reading-notes/class04.md)
-  -|-
-  -|-
-  -|-
+  React Docs - thinking in React|[class 05 Link](301-reading-notes/class05.md)
+  
   
 
 
