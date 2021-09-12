@@ -57,14 +57,8 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   REST |[class 07 Link](301-reading-notes/class07.md)
   -|-
   In memory storage |[class 09 Link](301-reading-notes/class09.md)
-  
+  -|-
   Mongo and Mongoose |[class 11 Link](301-reading-notes/class11.md)
+  CRUD |[class 12 Link](301-reading-notes/class12.md)
   
-  
-
-
  
-
- 
-
-      
