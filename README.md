@@ -60,5 +60,6 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   -|-
   Mongo and Mongoose |[class 11 Link](301-reading-notes/class11.md)
   CRUD |[class 12 Link](301-reading-notes/class12.md)
+  Diversity & Inclusion |[class 13 Link](301-reading-notes/class13.md)
   
  
