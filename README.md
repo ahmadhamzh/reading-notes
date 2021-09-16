@@ -48,6 +48,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
 
   **Subject** |  **Link**
   -|-
+  course 301 |[class 00 Link](301-reading-notes/class00.md)
   Introduction to React and Components|[class 01 Link](301-reading-notes/class01.md)
   -|-
   Passing Functions as Props|[class 03 Link](301-reading-notes/class03.md)
@@ -61,5 +62,6 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   Mongo and Mongoose |[class 11 Link](301-reading-notes/class11.md)
   CRUD |[class 12 Link](301-reading-notes/class12.md)
   Diversity & Inclusion |[class 13 Link](301-reading-notes/class13.md)
+  -|-
   
  
