@@ -67,6 +67,14 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
  
  ## **Code 401 - Advanced Software Development**
 
+
   **Subject** |  **Link**
+  Get Ready for 401|[class 01 Link](401-reading-notes/class01.md)
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
+  -|-
   -|-
   -|-
