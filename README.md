@@ -69,11 +69,10 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
 
 
   **Subject** |  **Link**
+  -|-
   Get Ready for 401|[class 00 Link](401-reading-notes/class00.md)
   Node Ecosystem, TDD, CI/CD|[class 01 Link](401-reading-notes/class01.md)
-  -|-
-  -|-
-  -|-
+  Review, Research, and Discussion|-[class 02 link](401-reading-notes/class02.md)
   -|-
   -|-
   -|-
