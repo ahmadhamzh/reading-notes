@@ -74,6 +74,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   Node Ecosystem, TDD, CI/CD|[class 01 Link](401-reading-notes/class01.md)
   Express|-[class 02 link](401-reading-notes/class02.md)
   Express REST API|-[class 03 link](401-reading-notes/class03.md)
+  class 04|-[class 03 link](401-reading-notes/class04.md)
   -|-
   -|-
   -|-
