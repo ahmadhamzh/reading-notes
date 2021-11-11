@@ -75,13 +75,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   Express|-[class 02 link](401-reading-notes/class02.md)
   Express REST API|-[class 03 link](401-reading-notes/class03.md)
   class 04|-[class 04 link](401-reading-notes/class04.md)
-<<<<<<< HEAD
+  class 05|-[class 05 link](401-reading-notes/class05.md)
   class 09|-[class 09 link](401-reading-notes/class09.md)
   
-=======
-  -|-
-  -|-
-  -|-
-  -|-
-  -|-
->>>>>>> 0279e76ede7c7cf3e6b8a8bfb2eabddd642ea5f2
+
