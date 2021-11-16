@@ -77,6 +77,7 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   class 04|-[class 04 link](401-reading-notes/class04.md)
   class 05|-[class 05 link](401-reading-notes/class05.md)
   class 06|-[class 06 link](401-reading-notes/class06.md)
+  class 07|-[class 07 link](401-reading-notes/class07.md)
   class 09|-[class 09 link](401-reading-notes/class09.md)
   class 10|-[class 10 link](401-reading-notes/class10.md)
   class 11|-[class 11 link](401-reading-notes/class11.md)
