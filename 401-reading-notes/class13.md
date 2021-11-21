@@ -25,7 +25,7 @@ the client wouldn't know of that event so client's listner for that event wouldn
 
 using the message queue so the server will save all the events in the message queue till the client tell the server that it recive that event then the server delete the events from queue.
 
-rm   |   Discripe
+term   |   Discripe
 -| -
 **Socket** | one endpoint of a two-way communication link between two programs running on the network.
 **Web Socket** | a communications protocol for a persistent, bi-directional, full duplex TCP connection from a user's web browser to a server. 
