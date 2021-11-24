@@ -43,5 +43,5 @@ AWS Lambda is a serverless computing service provided by Amazon Web Services (AW
 
 Each Lambda function runs in its own container. When a function is created, Lambda packages it into a new container and then executes that container on a multi-tenant cluster of machines managed by AWS. Before the functions start running,
 
-### 
+
 
