@@ -93,5 +93,6 @@ Structur Webpages HTML| [Structure Webpages Link](https://ahmadhamzh.github.io/r
   class 26|-[class 26 link](401-reading-notes/class26.md)
   class 27|-[class 27 link](401-reading-notes/class27.md)
   class 28|-[class 28 link](401-reading-notes/class28.md)
+  class 29|-[class 29 link](401-reading-notes/class29.md)
   
 
